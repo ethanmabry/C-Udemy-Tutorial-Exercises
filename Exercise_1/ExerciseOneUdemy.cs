@@ -15,7 +15,7 @@ namespace ExerciseOneUdemy
             int secondNumber = int.Parse(Console.ReadLine());
 
             int finalNumber = firstNumber + secondNumber;
-            Console.WriteLine($"You entered: {secondNumber}");
+            Console.WriteLine($"You entered: {secondNumber}. Great!");
             Console.WriteLine($"Both numbers equal: {finalNumber}");
 
 
